@@ -17,6 +17,11 @@ The Nike Shoes Product Landing Page features a modern design with an emphasis on
 - **HTML**: Structures the web content.
 - **CSS**: Styles the presentation, layout, and animations.
 
+# Screenshoot
+
+<img src="./Screenshoot/img1.JPG">
+<img src="./Screenshoot/img2.JPG">
+
 ## Installation
 
 To get a local copy up and running, follow these simple steps.
