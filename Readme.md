@@ -47,7 +47,7 @@ Alternatively, you can download the ZIP file of the project, extract it, and ope
 
 ### Contact
 
-Email [LeulTsehaye] (leultsehaye123@gmail.com)
+Email-[LeulTsehaye](leultsehaye123@gmail.com)
 
 Github-[@leulx1](https://github.com/leulx1)
 
