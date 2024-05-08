@@ -111,6 +111,11 @@ main {
   flex-direction: row;
   align-items: center;
   justify-content: center;
+  /* display: grid;
+  grid-template-columns: repeat(3,1fr);
+  gap:3rem;
+  margin: auto;
+  max-width: 80%; */
 }
 figure > img {
   width: 100%;
@@ -148,6 +153,11 @@ figure > img {
   border-radius: 2px;
   background: transparent;
   cursor: pointer;
+}
+#price .btn:hover{
+  background-color:gray;
+  transform: scale(1.15,1.15);
+  transition: all 200ms ease-in-out;
 }
 footer {
   max-width: 50rem;
